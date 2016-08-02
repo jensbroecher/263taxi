@@ -18,6 +18,8 @@
 	<icon src="icon.png" />
 		
 	<platform name="android" />	
+        
+    <preference name="phonegap-version" value="cli-6.3.0" />
 
 	<!-- Core plugins -->
 	<gap:plugin name="cordova-plugin-statusbar" source="npm" />
